@@ -12,5 +12,3 @@ You can always reach us at .
 ## About Us
 Newton is a seamless computing platform that .
 Find out more at .
-
-https://dsambrose26.github.io/newton_wireframe/
