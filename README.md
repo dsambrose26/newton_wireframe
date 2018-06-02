@@ -13,11 +13,3 @@ You can always reach us at .
 Newton is a seamless computing platform that .
 Find out more at .
 
-
-## Credits
-Thanks to Sayspring for the free vector graphics of Amazon Echo and Google Home: https://www.sayspring.com/blog/category/design-resources/
-
-Background image used in this example: 
-Audrey Hubert
-https://www.behance.net/gallery/55893987/Element-3D-Motion-Design
-
